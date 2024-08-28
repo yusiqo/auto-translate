@@ -1,7 +1,6 @@
 {
-    "loading":"yükleniyor",
-    "giriş": "giriş",
-    "kayıt": "kayıt",
-    "kayıt": "kayıt",
-    "hesap": "hesap"
+    "login": "giriş", 
+    "register": "kayıt", 
+    "registration": "kayıt", 
+    "account": "hesap" 
 }
