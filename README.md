@@ -14,7 +14,7 @@ This JavaScript library provides automatic translation for investment and simila
 Simply include the library via CDN. No additional steps are required:
 
 ```html
-<script src="https://cdn.example.com/translation-library.js"></script>
+<script src="https://"></script>
 ```
 
 ## Contribution
