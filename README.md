@@ -14,7 +14,7 @@ This JavaScript library provides automatic translation for investment and simila
 Simply include the library via CDN. No additional steps are required:
 
 ```html
-<script src="https://"></script>
+<script src="https://raw.githubusercontent.com/yusiqo/auto-translate/refs/heads/main/translate.js"></script>
 ```
 
 ## Contribution
